@@ -1,0 +1,21 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  margin: 8px 0;
+}
+button {
+  cursor: pointer;
+  margin: 4px 0;
+}
+h3 {
+  text-align: center;
+}
+.deleteButton {
+  background-color: red;
+}
+.deleteContainer {
+  display: flex;
+  flex-direction: column;
+}
